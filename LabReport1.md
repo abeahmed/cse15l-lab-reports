@@ -2,6 +2,6 @@
 # Lab Report 1: Setting up 
 
 1. Login using SSH:
----
+
 Type this command into the terminal: 
 > *ssh cs15lwi23ard@ieng6.ucsd.edu* (Replacing "ard" with account-specific letters)
