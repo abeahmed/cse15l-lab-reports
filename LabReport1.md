@@ -12,4 +12,4 @@ You will then be prompted to enter the password for your account. After entering
 
 You can then try running some commands remotely on the virtual machine, as shown in the examples below:
 
-![Image](SSH.png)
+![Image](Command1.png)
