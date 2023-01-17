@@ -24,4 +24,4 @@ You can then try running some commands remotely on the virtual machine, as shown
 
 ![Image](Command1.png)
 
-![Image](Command2.png)
+![Image](2ndCommand.png)
