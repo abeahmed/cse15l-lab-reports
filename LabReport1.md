@@ -1,7 +1,11 @@
 
 # Lab Report 1: Setting up 
 
-1. **Installing VS Code**:
+1. **Installing Visual Studio Code**:
+
+Visit the following link to download the VS code installer:
+
+https://code.visualstudio.com/download
 
 2. **Login using SSH**:
 
