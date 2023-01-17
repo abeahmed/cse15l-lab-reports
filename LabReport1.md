@@ -29,3 +29,7 @@ You can then try running some commands remotely on the virtual machine, as shown
 ![Image](CommandOther.png)
 
 ![Image](CommandOther2nd.png)
+
+## Conclusion: ##
+
+That's it. You're done setting up and connecting remotely. Feel free to continue experimenting with commands.
