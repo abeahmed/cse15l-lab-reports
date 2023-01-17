@@ -32,4 +32,4 @@ You can then try running some commands remotely on the virtual machine, as shown
 
 ## Conclusion: ##
 
-That's it. You're done setting up and connecting remotely. Feel free to continue experimenting with commands.
+That's it. You're done setting up and connecting remotely. Feel free to continue experimenting with commands to try.
