@@ -28,4 +28,4 @@ You can then try running some commands remotely on the virtual machine, as shown
 
 ![Image](CommandOther.png)
 
-![Image](CommandOther2.png)
+![Image](CommandOther2nd.png)
