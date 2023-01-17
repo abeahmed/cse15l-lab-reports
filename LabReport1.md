@@ -1,11 +1,15 @@
 
-# Lab Report 1: Setting up 
+# Lab Report 1: CSE15L Setting up 
 
 1. **Installing Visual Studio Code**:
 
 Visit the following link to download the VS code installer:
 
 https://code.visualstudio.com/download
+
+After you've successfully installed VS code and opened it you should see something like this:
+
+![Image](VSCode.png)
 
 2. **Login using SSH**:
 
