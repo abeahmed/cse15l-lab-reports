@@ -18,7 +18,23 @@ After you've successfully installed VS code and opened it you should see somethi
 First, open command line interface or interpreter on your computer (The default applications for this are *Command Prompt* on Windows, and *Terminal* on Mac)
 **_NOTE:_**: The commands shown in this example were run on a Mac, using the *Terminal* application
 
-Type this command into the terminal: 
+Now you'll need to set up your CSE15L account 
+
+You can look up your account at the following link, using the username for your UCSD account and your PID:
+
+[Account Lookup](https://sdacs.ucsd.edu/~icc/index.php)
+
+You should see your account under the *Addditional Accounts* section:
+
+![Image](Account.png)
+
+You'll want to reset your password, which can be done through the Global Password Reset tool:
+
+[Global Password Reset](https://sdacs.ucsd.edu/~icc/password.php)
+
+After you've reset your password, you'll want to wait for the changes to take effect
+
+Next, Type this command into the terminal: 
 > `ssh cs15lwi23ard@ieng6.ucsd.edu` (Replacing "ard" with account-specific letters)
 
 You will then be prompted to enter the password for your account. After entering the password correctly, you should see the following message:
