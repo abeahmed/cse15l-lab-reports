@@ -5,7 +5,7 @@
 
 Visit the following link to download the VS code installer:
 
-[External link](https://code.visualstudio.com/download)
+[Download link](https://code.visualstudio.com/download)
 
 
 
