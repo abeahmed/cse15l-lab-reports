@@ -24,7 +24,7 @@ You can look up your account at the following link, using the username for your 
 
 [Account Lookup](https://sdacs.ucsd.edu/~icc/index.php)
 
-You should see your account under the *Addditional Accounts* section:
+You should see your account under the *Addditional Accounts* section, as shown below
 
 ![Image](Account.png)
 
@@ -32,7 +32,7 @@ You'll want to reset your password, which can be done through the Global Passwor
 
 [Global Password Reset](https://sdacs.ucsd.edu/~icc/password.php)
 
-After you've reset your password, you'll want to wait for the changes to take effect
+After you've reset your password, you'll want to wait for the changes to take effect.
 
 ---
 
