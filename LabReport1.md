@@ -16,10 +16,10 @@ After you've successfully installed VS code and opened it you should see somethi
 ## 2. **Login to remote machine using SSH**: ##
 
 First, open command line interface or interpreter on your computer (The default applications for this are *Command Prompt* on Windows, and *Terminal* on Mac)
-> Note: The commands shown in this example were run on a Mac, using the *Terminal* application
+!!!Note: The commands shown in this example were run on a Mac, using the *Terminal* application
 
 Type this command into the terminal: 
-    `ssh cs15lwi23ard@ieng6.ucsd.edu` (Replacing "ard" with account-specific letters)
+> `ssh cs15lwi23ard@ieng6.ucsd.edu` (Replacing "ard" with account-specific letters)
 
 You will then be prompted to enter the password for your account. After entering the password correctly, you should see the following message:
 
