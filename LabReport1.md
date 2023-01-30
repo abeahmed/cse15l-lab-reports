@@ -18,7 +18,7 @@ After you've successfully installed VS code and opened it you should see somethi
 First, open command line interface or interpreter on your computer (The default applications for this are *Command Prompt* on Windows, and *Terminal* on Mac)
 **_NOTE:_**: The commands shown in this example were run on a Mac, using the *Terminal* application
 
-Now you'll need to set up your CSE15L account 
+Now, you'll need to set up your CSE15L account 
 
 You can look up your account at the following link, using the username for your UCSD account and your PID:
 
@@ -28,7 +28,7 @@ You should see your account under the *Addditional Accounts* section:
 
 ![Image](Account.png)
 
-You'll want to reset your password, which can be done through the Global Password Reset tool:
+You'll want to reset your password, which can be done through the Global Password Reset tool (Keep in mind, this will reset the password to all your UCSD accounts):
 
 [Global Password Reset](https://sdacs.ucsd.edu/~icc/password.php)
 
