@@ -49,7 +49,11 @@ You can then try running some commands remotely on the virtual machine, as shown
 
 ![Image](Command1.png)
 
+This is the `ls` command. It stands for "list" and is used to lsit files in the current working directory.
+
 ![Image](CommandOther.png)
+
+The `cd` command stands for "change directory" and is used to change the current working directory
 
 ![Image](CommandOther2nd.png)
 
