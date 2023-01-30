@@ -34,6 +34,8 @@ You'll want to reset your password, which can be done through the Global Passwor
 
 After you've reset your password, you'll want to wait for the changes to take effect
 
+---
+
 Next, Type this command into the terminal: 
 > `ssh cs15lwi23ard@ieng6.ucsd.edu` (Replacing "ard" with account-specific letters)
 
