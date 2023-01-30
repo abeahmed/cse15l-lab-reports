@@ -15,7 +15,7 @@ After you've successfully installed VS code and opened it you should see somethi
 
 ## 2. **Login to remote machine using SSH**: ##
 
-First, open your computer's command line interface tool (Command Prompt on Windows, Terminal on Mac)
+First, open your computer's command line interface tool (*Command Prompt* on Windows, *Terminal* on Mac)
 
 
 (The commands shown in this example were run on a mac)
