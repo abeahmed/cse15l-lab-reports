@@ -19,7 +19,7 @@ First, open command line interface or interpreter on your computer (The default 
 > The commands shown in this example were run on a Mac, using the *Terminal* application
 
 Type this command into the terminal: 
-> `ssh cs15lwi23ard@ieng6.ucsd.edu` (Replacing "ard" with account-specific letters)
+    `ssh cs15lwi23ard@ieng6.ucsd.edu` (Replacing "ard" with account-specific letters)
 
 You will then be prompted to enter the password for your account. After entering the password correctly, you should see the following message:
 
