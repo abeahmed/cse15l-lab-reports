@@ -49,6 +49,8 @@ You can then try running some commands remotely on the virtual machine, as shown
 
 ![Image](Command1.png)
 
+---
+
 This is the `ls` command. It stands for "list" and is used to list files in the current working directory.
 
 ---
@@ -56,6 +58,8 @@ This is the `ls` command. It stands for "list" and is used to list files in the 
 ![Image](CommandOther.png)
 
 ![Image](CommandOther2nd.png)
+
+---
 
 The `cd` command stands for "change directory" and is used to change the current working directory
 
