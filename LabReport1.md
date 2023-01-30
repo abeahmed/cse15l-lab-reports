@@ -32,7 +32,7 @@ You'll want to reset your password, which can be done through the Global Passwor
 
 [Global Password Reset](https://sdacs.ucsd.edu/~icc/password.php)
 
-After you've reset your password, you'll want to wait for the changes to take effect.
+After you've reset your password, you'll want to wait a while for the changes to take effect.
 
 ---
 
