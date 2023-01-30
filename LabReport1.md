@@ -15,10 +15,7 @@ After you've successfully installed VS code and opened it you should see somethi
 
 ## 2. **Login to remote machine using SSH**: ##
 
-First, open command line interface or interpreter on your computer (The default applications for this are *Command Prompt* on Windows, and *Terminal* on Mac)
-**_NOTE:_** The commands shown in this example were run on a Mac, using the *Terminal* application
-
-Now, you'll need to set up your CSE15L account 
+Now, you'll want to set up your CSE15L account 
 
 You can look up your account at the following link, using the username for your UCSD account and your PID:
 
@@ -36,7 +33,10 @@ After you've reset your password, you'll want to wait a while for the changes to
 
 ---
 
-Next, Type this command into the terminal: 
+Next, open a command line interface or interpreter on your computer (The default applications for this are *Command Prompt* on Windows, and *Terminal* on Mac)
+**_NOTE:_** The commands shown in this example were run on a Mac, using the *Terminal* application
+
+Type this command into the terminal: 
 > `ssh cs15lwi23ard@ieng6.ucsd.edu` (Replacing "ard" with account-specific letters)
 
 You will then be prompted to enter the password for your account. After entering the new password correctly, you should see the following message:
