@@ -42,3 +42,17 @@ The methods called in the code are the *handleRequest* and *main* methods
 The arguments to these methods are the *url*, which is of the URI type and *args*, which is of the String type.
 
 ## Part 2. **Lab 3 Bugs**: ##
+
+    @Test 
+        public void testReverseInPlace() {
+            int[] input1 = {1, 2, 3, 4, 5, 6, 7, 8};
+            ArrayExamples.reverseInPlace(input1);
+            assertArrayEquals(new int[]{8, 7, 6, 5, 4, 3, 2, 1}, input1);
+        }
+        
+    static void reverseInPlace(int[] arr) {
+        for(int i = 1; i < arr.length; i += 1) {
+          arr[i] = arr[arr.length - i];
+        }
+    }
+
