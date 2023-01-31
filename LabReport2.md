@@ -58,5 +58,7 @@ The arguments to these methods are the *url*, which is of the URI type and *args
         }
 > When this test is run on the above code, the output look something like this:
 
-![testOutput](JUnit.png)
+![testOuput1](JUnit2.png)
+
+![testOutput2](JUnit.png)
 
