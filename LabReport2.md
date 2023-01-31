@@ -75,3 +75,4 @@ However, when another input like `[1, 2, 3, 4, 5, 6, 7, 8]` is used, for example
 
 ![testOutput2](JUnit.png)
 
+This is because this method does not correctly reverse the input array, and ends up only working for half of the array
