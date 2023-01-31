@@ -36,4 +36,7 @@
             Server.start(port, new Handler());
         }
     }
+    
+The methods called in the code are the *handleRequest* and *main* methods
 
+## 2. **String Server Code**: ##
