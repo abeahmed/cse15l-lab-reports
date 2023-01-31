@@ -76,3 +76,26 @@ However, when another input like `[1, 2, 3, 4, 5, 6, 7, 8]` is used, for example
 ![testOutput2](JUnit.png)
 
 This is because this method does not correctly reverse the input array, and ends up only working for half of the array
+
+To fix this, we would need to properly swap the elements from the beginning and end of the array:
+
+Before:
+
+	static void reverseInPlace(int[] arr) {
+	    for(int i = 1; i < arr.length; i += 1) {
+	      arr[i] = arr[arr.length - i];
+	    }
+	}
+	
+After:
+
+	static void reverseInPlace(int[] arr) {
+	    for(int i = 0; i < arr.length / 2; i++) {
+		int temp = arr[i];
+		arr[i] = arr[arr.length - 1 - i];
+		arr[arr.length - 1 - i] = temp;
+    	    }
+	}
+
+
+
