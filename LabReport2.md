@@ -1,6 +1,6 @@
 # Lab Report 2: 
 
-## 1. **String Server Code**: ##
+## Part 1. **String Server**: ##
 
 
     import java.io.IOException;
@@ -41,4 +41,4 @@ The methods called in the code are the *handleRequest* and *main* methods
 
 The arguments to these methods are the *url*, which is of the URI type and *args*, which is of the String type.
 
-## 2. **String Server Code**: ##
+## Part 2. **Lab 3 Bugs**: ##
