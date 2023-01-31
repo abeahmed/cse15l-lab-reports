@@ -53,22 +53,23 @@ This is the faulty code for the reverseInPlace method.
 
 When the input `[3, 3, 3]` is used to test this method, it doesn't induce a failure, as shown below:
 
-    @Test 
+  	 @Test 
+	public void testReverseInPlace() {
+		int[] input1 = {3, 3, 3};
+		ArrayExamples.reverseInPlace(input1);
+		assertArrayEquals(new int[]{3, 3, 3}, input1);
+	}
+
+![testOuput1](JUnit2.png)
+
+However, when another input like `[1, 2, 3, 4, 5, 6, 7, 8]` is used, for example, the test does not pass:
+    
+  	@Test 
         public void testReverseInPlace() {
             int[] input1 = {1, 2, 3, 4, 5, 6, 7, 8};
             ArrayExamples.reverseInPlace(input1);
             assertArrayEquals(new int[]{8, 7, 6, 5, 4, 3, 2, 1}, input1);
         }
-![testOuput1](JUnit2.png)
-
-    @Test 
-	public void testReverseInPlace() {
-        int[] input1 = {3, 3, 3};
-        ArrayExamples.reverseInPlace(input1);
-        assertArrayEquals(new int[]{3, 3, 3}, input1);
-	}
-    
-> When this test is run on the above code, the output look something like this:
 
 
 
