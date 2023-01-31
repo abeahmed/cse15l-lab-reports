@@ -110,3 +110,5 @@ __After__:
 
 ## Part 3. **What I learned**: ##
 
+During lab 2, I learned how to run a webserver from my localhost machine and remotely, which is something I had not previously done. I then learned how to implement various functionality into this server by using different kinds of urls and then parsing them. In addition, I learned about symptoms, bugs, and JUnit.
+
