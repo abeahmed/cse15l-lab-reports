@@ -2,8 +2,7 @@
 
 ## 1. **Installing Visual Studio Code**: ##
 
-
-   `
+`
     import java.io.IOException;
     import java.net.URI;
 
