@@ -43,19 +43,19 @@ The arguments to these methods are the *url*, which is of the URI type and *args
 
 ## Part 2. **Lab 3 Bugs**: ##
 
+     static void reverseInPlace(int[] arr) {
+            for(int i = 1; i < arr.length; i += 1) {
+              arr[i] = arr[arr.length - i];
+            }
+    }
+---
+
     @Test 
         public void testReverseInPlace() {
             int[] input1 = {1, 2, 3, 4, 5, 6, 7, 8};
             ArrayExamples.reverseInPlace(input1);
             assertArrayEquals(new int[]{8, 7, 6, 5, 4, 3, 2, 1}, input1);
         }
----
-    
-    static void reverseInPlace(int[] arr) {
-        for(int i = 1; i < arr.length; i += 1) {
-          arr[i] = arr[arr.length - i];
-        }
-    }
-  
+> When this test is run on the above code, the output look something like this:
 ![testOutput](JUnit.png)
 
