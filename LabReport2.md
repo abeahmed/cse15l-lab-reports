@@ -36,7 +36,11 @@
             Server.start(port, new Handler());
         }
     }
-    
+   
+Here are some screenshots of the server running on a localhost:
+![Server1](Server1.png)
+![Server2](Server2.png)
+
 The methods called in the code are the *handleRequest* and *main* methods
 
 The arguments to these methods are the *url*, which is of the URI type and *args*, which is of the String type.
