@@ -45,7 +45,8 @@ Here are some screenshots of the server running on a localhost:
 
 The methods called in the code are the *handleRequest* and *main* methods
 
-The arguments to these methods are the *url*, which is of the URI type and *args*, which is of the String type.
+The argument to the *handleRequest* method is the *url* variable, which is of the URI type. This, is the unparsed URL.
+The argument to the *main* method is the *args* variable, which is of the String type. This is the port number, in this case.
 
 ## Part 2. **Lab 3 Bugs**: ##
 
