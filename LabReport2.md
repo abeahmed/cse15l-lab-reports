@@ -2,6 +2,7 @@
 
 ## Part 1. **String Server**: ##
 
+This server keeps track of a string that is added onto by incoming requests. The code for it is shown below:	
 
     import java.io.IOException;
     import java.net.URI;
@@ -38,6 +39,7 @@
     }
    
 Here are some screenshots of the server running on a localhost:
+
 ![Server1](Server1.png)
 ![Server2](Server2.png)
 
