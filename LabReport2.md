@@ -3,7 +3,7 @@
 ## 1. **Installing Visual Studio Code**: ##
 
 `import java.io.IOException;
-import java.net.URI;
+import java.net.URI;`
 
 class Handler implements URLHandler {
     String outputString = "";
@@ -33,4 +33,4 @@ class StringServer {
 
         Server.start(port, new Handler());
     }
-}`
+}
