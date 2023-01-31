@@ -56,6 +56,7 @@ You can then try running some commands remotely on the virtual machine, as shown
 ![Image](CommandOther2nd.png)
 
 > The `cd` command stands for "change directory" and is used to change the current working directory
+
 > `cd ..` changes the directory to the parent directory
 
 ## 4. **Conclusion**: ##
