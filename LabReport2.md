@@ -43,10 +43,14 @@ Here are some screenshots of the server running on a localhost:
 ![Server1](Server1.png)
 ![Server2](Server2.png)
 
-The methods called in the code are the *handleRequest* and *main* methods
+The methods called in the code are the __*handleRequest*__ and __*main*__ methods
 
-* The argument to the __*handleRequest*__ method is the *url* variable, which is of the URI type. This, is the unparsed URL.
-* The argument to the __*main* method__ is the *args* variable, which is of the String type. This is the port number, in this case.
+* The argument to the __*handleRequest*__ method is the *url* variable, which is of the URI type. This is the unparsed URL, in this case.
+* The argument to the __*main*__ method is the *args* variable, which is of the String type. This is the port number, in this case.
+
+The variables `firstParameter` and `secondParameter` store different values for each new URL, because they are parsed from the `url` variable. `secondParameter` is particularly important here because it stores the string value to be added on to the stored output string.
+
+The port number, however, stays the same, once the server is running. 
 
 ## Part 2. **Lab 3 Bugs**: ##
 
