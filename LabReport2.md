@@ -77,7 +77,7 @@ However, when another input like `[1, 2, 3, 4, 5, 6, 7, 8]` is used, for example
 
 This is because this method does not correctly reverse the input array, and ends up only working for half of the array
 
-To fix this, we would need to properly swap the elements from the beginning and end of the array:
+To fix this, we would need to properly swap the elements from the beginning and end of the array, by using a temporary variable to store overwritten contents:
 
 Before:
 
