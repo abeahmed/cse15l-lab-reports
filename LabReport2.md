@@ -49,6 +49,9 @@ The arguments to these methods are the *url*, which is of the URI type and *args
             }
     }
 ---
+This is the faulty code for the reverseInPlace method.
+
+When the input `[3, 3, 3]` is used to test this method, it doesn't induce a failure, as shown below:
 
     @Test 
         public void testReverseInPlace() {
@@ -56,7 +59,8 @@ The arguments to these methods are the *url*, which is of the URI type and *args
             ArrayExamples.reverseInPlace(input1);
             assertArrayEquals(new int[]{8, 7, 6, 5, 4, 3, 2, 1}, input1);
         }
-        
+![testOuput1](JUnit2.png)
+
     @Test 
 	public void testReverseInPlace() {
         int[] input1 = {3, 3, 3};
@@ -66,7 +70,7 @@ The arguments to these methods are the *url*, which is of the URI type and *args
     
 > When this test is run on the above code, the output look something like this:
 
-![testOuput1](JUnit2.png)
+
 
 ![testOutput2](JUnit.png)
 
