@@ -77,9 +77,9 @@ However, when another input like `[1, 2, 3, 4, 5, 6, 7, 8]` is used, for example
 
 This is because this method does not correctly reverse the input array, and ends up only working for half of the array
 
-To fix this, we would need to properly swap the elements from the beginning and end of the array, by using a temporary variable to store overwritten contents:
+To fix this, we would need to properly swap the elements from the beginning and end of the array, by using a temporary variable to store overwritten contents, as shown in the fix below:
 
-Before:
+__Before__:
 
 	static void reverseInPlace(int[] arr) {
 	    for(int i = 1; i < arr.length; i += 1) {
@@ -87,7 +87,7 @@ Before:
 	    }
 	}
 	
-After:
+__After__:
 
 	static void reverseInPlace(int[] arr) {
 	    for(int i = 0; i < arr.length / 2; i += 1) {
