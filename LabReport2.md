@@ -1,6 +1,6 @@
 # Lab Report 2: 
 
-## 1. **Installing Visual Studio Code**: ##
+## 1. **String Server Code**: ##
 
 
     import java.io.IOException;
