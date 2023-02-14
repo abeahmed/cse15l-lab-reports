@@ -6,7 +6,7 @@ Chosen Command: grep
 
 First Command Line Option:
 
-grep -B __num__
+** grep -B __num__ **
 
 Command:
 
@@ -29,7 +29,7 @@ Command:
 Output:
     
         Franche-Comté, Alsace, and Bur­gundy. At the same time, migrants from
-        the ##Mediterranean## countries were trickling into the south.
+        the Mediterranean countries were trickling into the south.
           
           
           
