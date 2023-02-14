@@ -4,7 +4,9 @@
 
 **Chosen Command**: `grep`
 
-### ::First Command Line Option:: ###
+### First Command Line Option: ###
+
+---
 
 **grep -B (num)**
 
@@ -37,7 +39,11 @@ This command prints 2 lines, including the line containing the word "Mediterrane
 
 I found this command using `man grep` in the terminal
 
-Second Command Line Option:
+---
+
+### Second Command Line Option: ###
+
+---
 
 **grep -c**
 
@@ -63,8 +69,12 @@ Output:
 This command counts the number of times the pattern, "Morowitz", occurs in the file ch7.txt of the *Kauffman* directory.
 
 I found this command using `man grep` in the terminal
+ 
+ ---
 
-Third Command Line Option:
+### Third Command Line Option: ###
+
+---
 
 **grep -o**
 
@@ -99,7 +109,11 @@ This command prints 2 lines, which means the pattern "issues" appears 2 times in
 
 I found this command using `man grep` in the terminal
 
-Fourth Command Line Option:
+---
+
+### Fourth Command Line Option: ###
+
+---
 
 **grep -r**
 
