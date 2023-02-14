@@ -21,4 +21,16 @@ Output:
           Egyptian written language. From the earliest days Egyptians recorded
           their activities on papyrus paper, helping us to piece together the
           
+
+Command:
+
+          grep -B 1 Mediterranean HistoryFrance.txt
+          
+Output:
+    
+        Franche-Comté, Alsace, and Bur­gundy. At the same time, migrants from
+        the Mediterranean countries were trickling into the south.
+          
+          
+          
           
