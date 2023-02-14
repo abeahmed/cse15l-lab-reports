@@ -21,6 +21,8 @@ Output:
           Egyptian written language. From the earliest days Egyptians recorded
           their activities on papyrus paper, helping us to piece together the
           
+This command prints 6 lines, including the line containing the word "papyrus", and the 5 lines before it. The number of lines printed before the target line depends on the argument passed to grep -B.
+          
 
 Command:
 
@@ -30,6 +32,8 @@ Output:
     
         Franche-Comté, Alsace, and Bur­gundy. At the same time, migrants from
         the Mediterranean countries were trickling into the south.
+        
+This command prints 2 lines, including the line containing the word "Mediterranean", and the 1 line before it. The number of lines printed before the target line depends on the argument passed to grep -B.
           
           
           
