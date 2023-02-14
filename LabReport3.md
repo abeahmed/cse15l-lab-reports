@@ -6,7 +6,7 @@ Chosen Command: grep
 
 First Command Line Option:
 
-** grep -B __num__ **
+*grep -B __num__ 
 
 Command:
 
