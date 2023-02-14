@@ -10,7 +10,7 @@ grep -B __num__
 
           grep -B 5 papyrus HistoryEgypt.txt
           
-Output:
+   Output:
     
           T he fertile Nile Valley has supported human life for over
           8,000 years. Stone Age settlers developed from hunters to farmers,
