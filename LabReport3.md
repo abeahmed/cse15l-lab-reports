@@ -4,7 +4,7 @@
 
 **Chosen Command**: `grep`
 
-* ### First Command Line Option: ###
+__### First Command Line Option: ###
 
 **grep -B (num)**
 
