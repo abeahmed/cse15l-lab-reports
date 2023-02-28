@@ -48,8 +48,8 @@ java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnit
 - git add . `<enter>`
 - git commit -m "fix" `<enter>`
 - git push `<enter>`
-- *github username* `<enter>`
-- *github authentication token* `<enter>`
+- __*github username*__ `<enter>`
+- __*github authentication token*__ `<enter>`
   
 
 
