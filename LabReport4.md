@@ -3,13 +3,13 @@
 
 ## Step 4: ##
 
-- ssh `<cmd-v><enter>` (paste cs15lwi23ard@ieng6.ucsd.edu)
+- ssh `<command-v><enter>` (paste cs15lwi23ard@ieng6.ucsd.edu)
 
 ![image](Image1.png)
 
 ## Step 5: ##
 
-- git clone `<cmd-v><enter>` (paste https://github.com/abeahmed/lab7.git)
+- git clone `<command-v><enter>` (paste https://github.com/abeahmed/lab7.git)
 
 ![image](Image2.png)
   
@@ -33,9 +33,9 @@ java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnit
   
 - `<control><shift><->` 43 `<right><right><right><right><right><right><right><right><right><right><right><right><backspace>` 2
  
-- `<control>` o `<enter>`
+- `<control-o><enter>`
 
-- `<control>` x `<enter>`
+- `<control-x><enter>`
 
 ![image](Image4.png)
   
