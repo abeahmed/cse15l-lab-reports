@@ -7,15 +7,17 @@
 
 - ssh `<cmd v>` (paste cs15lwi23ard@ieng6.ucsd.edu)
 
-[image1.png]
+![image](Image1.png)
 
 ## Step 5: ##
 
 - git clone `<cmd v>` (paste https://github.com/abeahmed/lab7.git)
 
-- cd lab7
+![image](Image2.png)
   
 ## Step 6: ##
+
+- cd lab7
 
 - `<up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><enter>`
   
@@ -24,6 +26,8 @@ javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java
 - `<up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><enter>`
   
 java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests
+
+![image](Image3.png)
   
 ## Step 7: ##
   
@@ -34,6 +38,8 @@ java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnit
 - `<control>` o `<enter>`
 
 - `<control>` x `<enter>`
+
+![image](Image4.png)
   
 ## Step 8: ##
   
@@ -45,6 +51,8 @@ javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java
   
 java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests
 
+![image](Image5.png)
+
 ## Step 9: ##
   
 - git add . `<enter>`
@@ -52,6 +60,8 @@ java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnit
 - git push `<enter>`
 - __*github username*__ `<enter>`
 - __*github authentication token*__ `<enter>`
+
+![image](Image6.png)
   
 
 
