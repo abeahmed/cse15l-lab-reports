@@ -3,7 +3,7 @@
 
 ## Commands used: ##
 
-- Step 4:
+- ## Step 4: ##
 
 ssh <cmd v> (paste cs15lwi23ard@ieng6.ucsd.edu)
 
