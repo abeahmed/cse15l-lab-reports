@@ -3,13 +3,13 @@
 
 ## Step 4: ##
 
-- ssh `<cmd v><enter>` (paste cs15lwi23ard@ieng6.ucsd.edu)
+- ssh `<cmd-v><enter>` (paste cs15lwi23ard@ieng6.ucsd.edu)
 
 ![image](Image1.png)
 
 ## Step 5: ##
 
-- git clone `<cmd v><enter>` (paste https://github.com/abeahmed/lab7.git)
+- git clone `<cmd-v><enter>` (paste https://github.com/abeahmed/lab7.git)
 
 ![image](Image2.png)
   
