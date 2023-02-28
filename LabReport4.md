@@ -23,11 +23,11 @@ Clones repository
 
 - `<up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><enter>`
   
-This command was 16 up in the search history: javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java
+This command was 16 up in the search history: `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java`
   
 - `<up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><enter>`
   
-This command was also 16 up in the search history: java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests
+This command was also 16 up in the search history: `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests`
 
 Compiles and runs tests
 
@@ -51,11 +51,11 @@ Use nano to edit ListExamples.java file. Skip to line number and fix bug. Save c
   
 - `<up><up><up><up><enter>`
   
-This command was up 4 in history: javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java
+This command was up 4 in history: `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java`
   
 - `<up><up><up><up><enter>`
   
-This command was also up 4 in history: java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests
+This command was also up 4 in history: `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests`
 
 ![image](Image5.png)
 
