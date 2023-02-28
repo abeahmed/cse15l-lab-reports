@@ -13,7 +13,7 @@ Logs in to remote machine (ieng6)
 
 - git clone `<command-v><enter>` (paste https://github.com/abeahmed/lab7.git)
 
-clones repository
+Clones repository
 
 ![image](Image2.png)
   
