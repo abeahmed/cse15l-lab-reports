@@ -5,7 +5,7 @@
 
 - ssh `<command-v><enter>` (paste cs15lwi23ard@ieng6.ucsd.edu)
 
-Logs in to remote machine (ieng6)
+__Logs in to remote machine (ieng6)__
 
 ![image](Image1.png)
 
@@ -13,7 +13,7 @@ Logs in to remote machine (ieng6)
 
 - git clone `<command-v><enter>` (paste https://github.com/abeahmed/lab7.git)
 
-Clones repository
+__Clones repository__
 
 ![image](Image2.png)
   
@@ -29,7 +29,7 @@ This command was 16 up in the search history: `javac -cp .:lib/hamcrest-core-1.3
   
 This command was also 16 up in the search history: `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests`
 
-Compiles and runs tests
+__Compiles and runs tests__
 
 ![image](Image3.png)
   
@@ -43,7 +43,7 @@ Compiles and runs tests
 
 - `<control-x><enter>`
 
-Use nano to edit ListExamples.java file. Skip to line number and fix bug. Save changes.
+__Use nano to edit ListExamples.java file. Skip to line number and fix bug. Save changes.__
 
 ![image](Image4.png)
   
@@ -67,7 +67,7 @@ This command was also up 4 in history: `java -cp .:lib/hamcrest-core-1.3.jar:lib
 - __*github username*__ `<enter>`
 - __*github authentication token*__ `<enter>`
 
-commit changes and push to github
+__Commit changes. Push to github__
 
 ![image](Image6.png)
   
