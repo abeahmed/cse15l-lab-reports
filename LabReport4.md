@@ -3,17 +3,17 @@
 
 ## Commands used: ##
 
-Step 4:
+- Step 4:
 
 ssh <cmd v> (paste cs15lwi23ard@ieng6.ucsd.edu)
 
-Step 5:
+- Step 5:
 
 git clone <cmd v> (paste https://github.com/abeahmed/lab7.git)
 
 cd lab7
   
-Step 6:
+- Step 6:
 
 <up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><up> <enter>
   
@@ -23,7 +23,7 @@ javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java
   
 java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests
   
-Step 7:
+- Step 7:
   
 nano Li <tab> .j <tab> <enter>
   
@@ -33,7 +33,7 @@ nano Li <tab> .j <tab> <enter>
 
 <control> x <enter>
   
-Step 8:
+- Step 8:
   
 <up><up><up><up> <enter>
   
@@ -43,7 +43,7 @@ javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java
   
 java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests
 
-Step 9:
+- Step 9:
   
 git add . <enter>
 git commit -m "fix" <enter>
