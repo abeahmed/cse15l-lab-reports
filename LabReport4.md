@@ -7,6 +7,8 @@
 
 - ssh `<cmd v>` (paste cs15lwi23ard@ieng6.ucsd.edu)
 
+[image1.png]
+
 ## Step 5: ##
 
 - git clone `<cmd v>` (paste https://github.com/abeahmed/lab7.git)
